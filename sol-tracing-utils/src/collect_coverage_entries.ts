@@ -1,6 +1,7 @@
 import * as ethUtil from 'ethereumjs-util';
 import * as _ from 'lodash';
-import * as parser from 'solidity-parser-antlr';
+// import * as parser from 'solidity-parser-antlr';
+import * as parser from '@solidity-parser/parser';
 
 import { ASTVisitor, CoverageEntriesDescription } from './ast_visitor';
 import { getOffsetToLocation } from './source_maps';
