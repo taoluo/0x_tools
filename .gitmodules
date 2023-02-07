@@ -1,0 +1,3 @@
+[submodule "sol-profiler"]
+	path = sol-profiler
+	url = https://github.com/taoluo/sol-profiler
