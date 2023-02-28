@@ -1,11 +1,11 @@
-## @0x/sol-tracing-utils
+## @0t/sol-tracing-utils
 
 Common code for all solidity trace-based tools (sol-coverage, sol-profiler, sol-trace).
 
 ## Installation
 
 ```bash
-yarn add @0x/sol-tracing-utils
+yarn add @0t/sol-tracing-utils
 ```
 
 ## Contributing
@@ -33,13 +33,13 @@ yarn install
 To build this package and all other monorepo packages that it depends on, run the following from the monorepo root directory:
 
 ```bash
-PKG=@0x/sol-tracing-utils yarn build
+PKG=@0t/sol-tracing-utils yarn build
 ```
 
 Or continuously rebuild on change:
 
 ```bash
-PKG=@0x/sol-tracing-utils yarn watch
+PKG=@0t/sol-tracing-utils yarn watch
 ```
 
 ### Clean

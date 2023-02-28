@@ -33,7 +33,7 @@
     },
     "homepage": "https://github.com/0xProject/tools/tree/main/sol-trace",
     "dependencies": {
-        "@0x/sol-tracing-utils": "^7.3.3",
+        "@0t/sol-tracing-utils": "https://github.com/taoluo/0x_tools/releases/download/dep2/0t-sol-tracing-utils-7.3.3.tgz",
         "@0x/subproviders": "^7.0.1",
         "@0x/typescript-typings": "^5.3.2",
         "@types/node": "12.12.54",

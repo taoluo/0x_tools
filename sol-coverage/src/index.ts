@@ -11,7 +11,7 @@ export {
     ContractData,
     SourceCodes,
     Sources,
-} from '@0x/sol-tracing-utils';
+} from '@0t/sol-tracing-utils';
 
 export { JSONRPCRequestPayload, JSONRPCResponsePayload, JSONRPCResponseError } from 'ethereum-types';
 

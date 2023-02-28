@@ -1,5 +1,6 @@
 import * as _ from 'lodash';
-import * as Parser from 'solidity-parser-antlr';
+// import * as Parser from '@solidity-parser/parser';
+import * as Parser from '@0t/parser';
 
 import { BranchMap, FnMap, OffsetToLocation, SingleFileSourceRange, StatementMap } from './types';
 

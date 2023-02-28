@@ -58,7 +58,7 @@
         "rimraf": "^2.6.2",
         "semaphore-async-await": "^1.5.1",
         "solc": "^0.8",
-        "@solidity-parser/parser": "git+https://github.com/taoluo/solidity-parser.git#fd8f42b187e79690219d48617ccdcc3cdf5e9ed5"
+        "@0t/parser": "https://github.com/taoluo/0x_tools/releases/download/dep2/0t-parser-0.14.5.tgz"
     },
     "devDependencies": {
         "@0x/tslint-config": "^4.1.5",

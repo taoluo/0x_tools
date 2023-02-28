@@ -10,7 +10,7 @@ import {
     SourceSnippet,
     TraceCollectionSubprovider,
     utils,
-} from '@0x/sol-tracing-utils';
+} from '@0t/sol-tracing-utils';
 import chalk from 'chalk';
 import { stripHexPrefix } from 'ethereumjs-util';
 import * as _ from 'lodash';
